@@ -1,0 +1,8 @@
+/media/sf_Scripts/code
+Ottawa_CSV_Short.csv
+OttawaPopDens.shp
+aoi1.kml
+18-01-26 00:02:00
+18-01-26 00:20:30
+300
+1000
