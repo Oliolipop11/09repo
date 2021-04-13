@@ -3,7 +3,7 @@ For any questions or concerns please email oliviahobbs@cmail.carleton.ca or alex
 
 To run this code with your own inputs you will need your own Ottawa_CSV_Short.csv that is in the same format as the sample provided with the flight data. You will also need to change your parameters in args.txt being sure to match the formatting exactly. The aoi1.kml is where you substitue in your own area of interest for the RPAS flight path, this file must be in KML format. Make sure that all files are in the same working folder which you will notate in the command line when you call this program ( SORAcode.py)
 
-SORAcode.py - is the python file which you call to run our program from command line 
+SORACodeFinal.py - is the python file which you call to run our program from command line 
 
 License - is the file with information regarding the license and usage permissions for our code we utilized the MIT license 
 
