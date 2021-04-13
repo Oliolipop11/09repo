@@ -21,3 +21,4 @@ aoi1.kml - This file is the sample input area of interest used for SORAcode.py, 
 args.txt - this file is the sample input for the main function in SORAcode.py, the formatting and spacing is very important to run this program correctly 
 
 Sora Presentation - Is the Sora groups final presentation 
+Sora Final Report - Includes user guide, FAQ, ETC
